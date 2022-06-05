@@ -2,11 +2,11 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-michel-8548821a8/)](https://www.linkedin.com/in/guilherme-michel-8548821a8/)
 
-### About me:
+### :fire:About me:
 
 I'm a backend developer, computer science student, currently focused on API development with SpringBoot and Java. I'm also interested in learning technologies for front-end like Angular or React and for Mobile like Kotlin, Dart and Swift.
 
-## Technologies used:
+### :computer:Technologies used:
 
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
