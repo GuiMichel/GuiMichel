@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋, Im Guilherme Michel!
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-michel-8548821a8/)](https://www.linkedin.com/in/guilherme-michel-8548821a8/)
+
+I'm a backend development student, currently focused on API development with SpringBoot and Java. I'm also interested in learning technologies for front-end like Angular or React and for Mobile like Kotlin, Dart and Swift.
 
 <!--
 **GuiMichel/GuiMichel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
