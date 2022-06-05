@@ -4,7 +4,7 @@
 
 ### About me:
 
-I'm a backend development student, currently focused on API development with SpringBoot and Java. I'm also interested in learning technologies for front-end like Angular or React and for Mobile like Kotlin, Dart and Swift.
+I'm a backend developer, computer science student, currently focused on API development with SpringBoot and Java. I'm also interested in learning technologies for front-end like Angular or React and for Mobile like Kotlin, Dart and Swift.
 
 ## Technologies used:
 
